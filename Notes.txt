@@ -2,6 +2,7 @@ Important URLS
 
 http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://learnlayout.com/
+http://bocoup.com/weblog/dive-into-flexbox/
 
 For songs
 
