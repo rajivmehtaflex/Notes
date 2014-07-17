@@ -4,9 +4,11 @@ Css References
 http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://learnlayout.com/
 http://bocoup.com/weblog/dive-into-flexbox/
+http://www.sitepoint.com/are-we-ready-to-use-flexbox/
 
 Online songs
 http://songs.reloadlife.com/movies-in-year-1982.html
 
 NaCL References
 https://developer.chrome.com/native-client/io2014
+
