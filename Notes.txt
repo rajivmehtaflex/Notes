@@ -11,6 +11,8 @@ IOC and DI Using Unity Framework
 http://www.developer.com/net/dependency-injection-best-practices-in-an-n-tier-modular-application.html
 http://www.devcurry.com/2013/01/aspnet-mvc-getting-started-with-unity.html
 http://www.pr0g33k.com/blog/2003/Getting-Started-MVC-4-Entity-Framework-5-Code-First-and-Unity
+http://www.c-sharpcorner.com/UploadFile/b19d5a/basic-generic-repository-pattern-and-unity-of-work-framework/
+http://www.c-sharpcorner.com/UploadFile/akkiraju/dependency-injection-techniques-explained-using-structurem/
 
 Online songs
 http://songs.reloadlife.com/movies-in-year-1982.html
