@@ -14,10 +14,13 @@ http://www.pr0g33k.com/blog/2003/Getting-Started-MVC-4-Entity-Framework-5-Code-F
 http://www.c-sharpcorner.com/UploadFile/b19d5a/basic-generic-repository-pattern-and-unity-of-work-framework/
 http://www.c-sharpcorner.com/UploadFile/akkiraju/dependency-injection-techniques-explained-using-structurem/
 
-UI Reference
+Site provider
 http://maartenba.github.io/MvcSiteMapProvider/getting-started.html
 http://edspencer.me.uk/2011/09/20/mvc-sitemap-provider-tutorial-2-breadcrumbs/
 
+Fluent Validation
+http://www.beabigrockstar.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/
+http://www.deliveron.com/blog/post/A-Quick-Introduction-to-Fluentvalidation-in-aspnet-mvc.aspx
 
 Online songs
 http://songs.reloadlife.com/movies-in-year-1982.html
