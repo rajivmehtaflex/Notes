@@ -1,5 +1,18 @@
 Important URLS
 
+UnitofWorks
+http://csharppulse.blogspot.in/2013/08/learning-mvc-part-1-introduction-to-mvc.html
+
+AutoMapper
+http://www.c-sharpcorner.com/UploadFile/1492b1/crud-operations-using-automapper-in-mvc-application/
+
+Dabase
+exec sys.sp_columns '<TableName>'
+
+Javascript
+https://github.com/travist/seamless.js
+
+
 Css References
 http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://learnlayout.com/
@@ -13,6 +26,8 @@ http://www.devcurry.com/2013/01/aspnet-mvc-getting-started-with-unity.html
 http://www.pr0g33k.com/blog/2003/Getting-Started-MVC-4-Entity-Framework-5-Code-First-and-Unity
 http://www.c-sharpcorner.com/UploadFile/b19d5a/basic-generic-repository-pattern-and-unity-of-work-framework/
 http://www.c-sharpcorner.com/UploadFile/akkiraju/dependency-injection-techniques-explained-using-structurem/
+http://www.dotnet-tricks.com/Tutorial/dependencyinjection/632V140413-Dependency-Injection-in-ASP.NET-MVC-4-using-Unity-IoC-Container.html
+
 
 Site provider
 http://maartenba.github.io/MvcSiteMapProvider/getting-started.html
