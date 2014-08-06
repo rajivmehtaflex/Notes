@@ -1,5 +1,8 @@
 Important URLS
 
+For SQL Tools
+http://www.devart.com/dbforge/sql/sqlcomplete/
+
 UnitofWorks
 http://csharppulse.blogspot.in/2013/08/learning-mvc-part-1-introduction-to-mvc.html
 
