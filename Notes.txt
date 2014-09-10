@@ -1,4 +1,6 @@
 Important URLS
+Video Tutorial
+https://www.wintellectnow.com/
 
 For SQL Tools
 http://www.devart.com/dbforge/sql/sqlcomplete/
