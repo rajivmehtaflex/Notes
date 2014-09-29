@@ -1,8 +1,7 @@
-http://easybiodata.com/
-
 Important URLS
 Video Tutorial
 https://www.wintellectnow.com/
+http://tutorials.jenkov.com/
 
 For SQL Tools
 http://www.devart.com/dbforge/sql/sqlcomplete/
