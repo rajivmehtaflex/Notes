@@ -1,3 +1,12 @@
+JQuery-Plugins
+http://kickass.to/tutsplus-jquery-ui-301-the-widget-factory-2013-eng-t8165109.html
+http://www.erichynds.com/blog/tips-for-developing-jquery-ui-widgets
+http://www.tutorialspoint.com/jqueryui/jqueryui_widgetfactory.htm
+http://code.tutsplus.com/tutorials/coding-your-first-jquery-ui-plugin--net-9460
+http://viget.com/inspire/jquery-plugin-patterns
+http://www.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
+http://www.abeautifulsite.net/jquery-file-tree/
+
 Important URLS
 Video Tutorial
 https://www.wintellectnow.com/
