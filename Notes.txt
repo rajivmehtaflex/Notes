@@ -1,3 +1,8 @@
+Reference site:
+https://109.74.15.96/Test533/GTL/R5/Menu/
+User: gwtl
+Password: k3n7&2e
+
 JQuery-Plugins
 http://kickass.to/tutsplus-jquery-ui-301-the-widget-factory-2013-eng-t8165109.html
 http://www.erichynds.com/blog/tips-for-developing-jquery-ui-widgets
