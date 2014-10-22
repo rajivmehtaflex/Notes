@@ -78,6 +78,10 @@ fr.save(ba,"g.png");
 KendoGrid
 http://ricardocovo.com/2012/03/26/three-ways-to-get-started-with-kendoui-grids-on-asp-net-mvc
 
+Html5 Reference Blog
+http://thejackalofjavascript.com/
+
+Internet download manager Reference
 F Name: Any Name 
 L Name: Any Name
 Email: Any  e-mail.address
