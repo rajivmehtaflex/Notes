@@ -1,8 +1,3 @@
-Reference site:
-https://109.74.15.96/Test533/GTL/R5/Menu/
-User: gwtl
-Password: k3n7&2e
-
 https://www.genmymodel.com/class-diagram-online
 
 JQuery-Plugins
@@ -92,6 +87,3 @@ S:No: 7G7QY-NZWKQ-23KRA-RAMQ4
 Or 
 
 S: NO: D4B22-SWRY9-FLFVP-NETDI
-
-https://109.74.15.96/Test533/AMS/Files.aspx?method=getdirectoryinfo&includesubdirectories=true&regionid=1&contentDirectoryName=Data&nocachedummy=56e1b863-d0c3-4bc7-8f10-137d9320e45d&app=Playlist+Manager&format=json
-https://109.74.15.96/Test533/AMS/Files.aspx?method=getfilesinfo&contentdirectoryid=6&nocachedummy=3417905f-5787-4e01-ba6e-0b22cd2852cc&app=Playlist+Manager&format=json
