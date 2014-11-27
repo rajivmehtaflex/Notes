@@ -1,3 +1,11 @@
+Polymer-Project References
+
+http://www.tutorialsavvy.com/p/posts.html
+http://thejackalofjavascript.com/web-components-future-web/
+http://www.sitepoint.com/introduction-to-web-components-and-polymer-tutorial/
+http://benburton.github.io/polymer/2014/06/29/your-first-web-component-with-polymer/
+http://viii.in/building-reusable-web-components-using-polymer/
+
 https://www.genmymodel.com/class-diagram-online
 
 JQuery-Plugins
