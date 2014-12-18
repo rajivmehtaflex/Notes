@@ -8,15 +8,6 @@ http://viii.in/building-reusable-web-components-using-polymer/
 
 https://www.genmymodel.com/class-diagram-online
 
-JQuery-Plugins
-http://kickass.to/tutsplus-jquery-ui-301-the-widget-factory-2013-eng-t8165109.html
-http://www.erichynds.com/blog/tips-for-developing-jquery-ui-widgets
-http://www.tutorialspoint.com/jqueryui/jqueryui_widgetfactory.htm
-http://code.tutsplus.com/tutorials/coding-your-first-jquery-ui-plugin--net-9460
-http://viget.com/inspire/jquery-plugin-patterns
-http://www.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
-http://www.abeautifulsite.net/jquery-file-tree/
-
 Important URLS
 Video Tutorial
 https://www.wintellectnow.com/
@@ -62,9 +53,6 @@ Fluent Validation
 http://www.beabigrockstar.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/
 http://www.deliveron.com/blog/post/A-Quick-Introduction-to-Fluentvalidation-in-aspnet-mvc.aspx
 
-Online songs
-http://songs.reloadlife.com/movies-in-year-1982.html
-
 NaCL References
 https://developer.chrome.com/native-client/io2014
 
@@ -77,6 +65,11 @@ http://202.131.103.44:7311/
 var ba:ByteArray=PNGEncoder.encode(bmsendtoserver);
 var fr:FileReference=new FileReference();
 fr.save(ba,"g.png");
+
+var matrix = new createjs.Matrix2D 
+matrix.scale(2, 2); // 200% 
+graphics.beginBitmapFill(image, "repeat", matrix);
+
 
 KendoGrid
 http://ricardocovo.com/2012/03/26/three-ways-to-get-started-with-kendoui-grids-on-asp-net-mvc
