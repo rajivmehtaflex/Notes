@@ -1,3 +1,7 @@
+flexible Table
+
+http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/
+
 Polymer-Project References
 
 http://www.tutorialsavvy.com/p/posts.html
