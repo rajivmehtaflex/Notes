@@ -1,3 +1,11 @@
+Ember JS
+
+http://stackoverflow.com/questions/9061107/how-to-push-pop-arrays-in-ember-js
+http://stackoverflow.com/questions/15033514/how-do-i-modify-elements-in-an-array-that-is-managed-by-an-ember-controller
+http://emberwatch.com/examples.html
+http://embersherpa.com/articles/crud-example-app-without-ember-data/
+
+
 flexible Table
 http://versateamsports.abscloud.net/
 http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/
