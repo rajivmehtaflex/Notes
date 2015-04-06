@@ -110,7 +110,6 @@ Or
 
 S: NO: D4B22-SWRY9-FLFVP-NETDI
 
-Keywords
 AngularJS
 Web component(Polymer)
 ES6(TypeScript/Babel)
@@ -123,6 +122,8 @@ WebRTC
 WebSocket
 WebWorker
 AppCache
+CreateJS
+CSS3
 IndexDB
 Node.js
 MongoDB
