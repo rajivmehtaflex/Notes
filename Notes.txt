@@ -1,4 +1,6 @@
 
+http://jqueryte.com/documentation\
+
 https://brendaneich.com/2015/06/from-asm-js-to-webassembly/
 	https://109.74.15.96/PMtoHTML33/Modules/Menu/
 	User: pmtohtml
