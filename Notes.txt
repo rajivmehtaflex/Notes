@@ -1,11 +1,12 @@
+
+https://fidoalliance.org/specifications/overview/
+https://developers.yubico.com/U2F/Libraries/Using_a_library.html
+
 pintupatell@gmail.com
 +919879799813
 
-http://www.tatadocomo.com/unlimited-combo-plan.aspx
+
 http://stage.365xchange.net
-http://techslides.com/object-detection-with-html5-getusermedia
-http://trackingjs.com/docs.html
-https://www.google.co.in/search?q=object+detection+in+javascript&oq=object+detection+in+javascript&aqs=chrome..69i57.8164j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#newwindow=1&q=object+detection+algorithm+in+image+processing+~+javascript
 
 http://jqueryte.com/documentation\
 
@@ -15,13 +16,6 @@ https://brendaneich.com/2015/06/from-asm-js-to-webassembly/
 	https://109.74.15.96/PMtoHTML33/Modules/Menu/
 	User: pmtohtml
 	Pass: z6hustaF
-
-Ember JS
-
-http://stackoverflow.com/questions/9061107/how-to-push-pop-arrays-in-ember-js
-http://stackoverflow.com/questions/15033514/how-do-i-modify-elements-in-an-array-that-is-managed-by-an-ember-controller
-http://emberwatch.com/examples.html
-http://embersherpa.com/articles/crud-example-app-without-ember-data/
 
 
 flexible Table
