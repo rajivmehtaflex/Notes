@@ -1,3 +1,7 @@
+http://amasad.me/2015/10/31/javascript-async-functions-for-easier-concurrent-programming/
+http://www.information-age.com/technology/applications-and-development/123460405/rise-nodejs-and-why-it-will-rule-enterprise-software-development-least-decade
+https://ponyfoo.com/articles/serviceworker-revolution
+
 http://www.aegis-india.com/contact-us/
 https://in.linkedin.com/in/srikanthpvprojectmanagement
 
