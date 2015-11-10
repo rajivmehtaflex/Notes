@@ -7,8 +7,6 @@ https://in.linkedin.com/in/srikanthpvprojectmanagement
 
 9510341066-Axis bank agent for Car Loan
 
-
-
 https://fidoalliance.org/specifications/overview/
 https://developers.yubico.com/U2F/Libraries/Using_a_library.html
 
@@ -18,11 +16,8 @@ pintupatell@gmail.com
 
 http://stage.365xchange.net
 
-http://jqueryte.com/documentation\
-
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas#
 
-https://brendaneich.com/2015/06/from-asm-js-to-webassembly/
 	https://109.74.15.96/PMtoHTML33/Modules/Menu/
 	User: pmtohtml
 	Pass: z6hustaF
@@ -32,73 +27,14 @@ flexible Table
 http://versateamsports.abscloud.net/
 http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/
 
-socket.io
-
-http://danielnill.com/nodejs-tutorial-with-socketio/
-
-Polymer-Project References
-
-http://www.tutorialsavvy.com/p/posts.html
-http://thejackalofjavascript.com/web-components-future-web/
-http://www.sitepoint.com/introduction-to-web-components-and-polymer-tutorial/
-http://benburton.github.io/polymer/2014/06/29/your-first-web-component-with-polymer/
-http://viii.in/building-reusable-web-components-using-polymer/
-
+socket.io->http://danielnill.com/nodejs-tutorial-with-socketio/
 https://www.genmymodel.com/class-diagram-online
 
-Important URLS
 Video Tutorial
 https://www.wintellectnow.com/
 http://tutorials.jenkov.com/
 
-For SQL Tools
-http://www.devart.com/dbforge/sql/sqlcomplete/
-
-UnitofWorks
-http://csharppulse.blogspot.in/2013/08/learning-mvc-part-1-introduction-to-mvc.html
-
-AutoMapper
-http://www.c-sharpcorner.com/UploadFile/1492b1/crud-operations-using-automapper-in-mvc-application/
-
-Dabase
-exec sys.sp_columns '<TableName>'
-
-Javascript
-https://github.com/travist/seamless.js
-
-
-Css References
-http://css-tricks.com/snippets/css/a-guide-to-flexbox/
-http://learnlayout.com/
-http://bocoup.com/weblog/dive-into-flexbox/
-http://www.sitepoint.com/are-we-ready-to-use-flexbox/
-
-IOC and DI Using Unity Framework
-
-http://www.developer.com/net/dependency-injection-best-practices-in-an-n-tier-modular-application.html
-http://www.devcurry.com/2013/01/aspnet-mvc-getting-started-with-unity.html
-http://www.pr0g33k.com/blog/2003/Getting-Started-MVC-4-Entity-Framework-5-Code-First-and-Unity
-http://www.c-sharpcorner.com/UploadFile/b19d5a/basic-generic-repository-pattern-and-unity-of-work-framework/
-http://www.c-sharpcorner.com/UploadFile/akkiraju/dependency-injection-techniques-explained-using-structurem/
-http://www.dotnet-tricks.com/Tutorial/dependencyinjection/632V140413-Dependency-Injection-in-ASP.NET-MVC-4-using-Unity-IoC-Container.html
-
-
-Site provider
-http://maartenba.github.io/MvcSiteMapProvider/getting-started.html
-http://edspencer.me.uk/2011/09/20/mvc-sitemap-provider-tutorial-2-breadcrumbs/
-
-Fluent Validation
-http://www.beabigrockstar.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/
-http://www.deliveron.com/blog/post/A-Quick-Introduction-to-Fluentvalidation-in-aspnet-mvc.aspx
-
-NaCL References
-https://developer.chrome.com/native-client/io2014
-
-Polymer
-http://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475
-
-http://main.stage02.spoonhosting.com
-http://202.131.103.44:7311/
+Centurion References http://202.131.103.44:7311/
 
 var ba:ByteArray=PNGEncoder.encode(bmsendtoserver);
 var fr:FileReference=new FileReference();
@@ -107,10 +43,6 @@ fr.save(ba,"g.png");
 var matrix = new createjs.Matrix2D 
 matrix.scale(2, 2); // 200% 
 graphics.beginBitmapFill(image, "repeat", matrix);
-
-
-KendoGrid
-http://ricardocovo.com/2012/03/26/three-ways-to-get-started-with-kendoui-grids-on-asp-net-mvc
 
 Html5 Reference Blog
 http://thejackalofjavascript.com/
@@ -129,7 +61,6 @@ S: NO: D4B22-SWRY9-FLFVP-NETDI
 
 AngularJS
 Web component(Polymer)
-ES6(TypeScript/Babel)
 asm.js
 Library
 	-Loadash
@@ -146,8 +77,40 @@ Node.js
 MongoDB
 Socket.IO
 Express JS
-simd.js
-http 2.0
+ES6(TypeScript/Babel)
+simd.js - Comming Soon
+http 2.0 - Comming Soon
+==============================MVC References================================================================
+For SQL Tools
+http://www.devart.com/dbforge/sql/sqlcomplete/
+
+UnitofWorks
+http://csharppulse.blogspot.in/2013/08/learning-mvc-part-1-introduction-to-mvc.html
+
+AutoMapper
+http://www.c-sharpcorner.com/UploadFile/1492b1/crud-operations-using-automapper-in-mvc-application/
+
+Dabase
+exec sys.sp_columns '<TableName>'
+
+Javascript
+https://github.com/travist/seamless.js
 
 
-[{"versions":"","id":"878","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd456.xml.zip","modified_date":"2015-06-26T05:44:56.000Z","modified_by":"pmtohtml","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"},{"versions":"","id":"880","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd456.xml[1].zip","modified_date":"2015-06-26T05:55:07.000Z","modified_by":"gwtl","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920x1080"},{"versions":"","id":"885","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd456.xml[2].zip","modified_date":"2015-06-26T06:29:38.000Z","modified_by":"gwtl","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"},{"versions":"","id":"888","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd567.xml.zip","modified_date":"2015-06-26T11:25:29.000Z","modified_by":"pmtohtml","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"},{"versions":"","id":"893","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd556.xml.zip","modified_date":"2015-06-28T11:14:10.000Z","modified_by":"pmtohtml","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"},{"versions":"","id":"895","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd123.xml.zip","modified_date":"2015-06-28T11:24:42.000Z","modified_by":"pmtohtml","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"},{"versions":"","id":"896","in_use":"n","regionID":[],"publish":"","edit":"","remove":"","name":"gd123.xml[1].zip","modified_date":"2015-06-28T11:25:05.000Z","modified_by":"pmtohtml","orientation":"Landscape","resolution":"","isskip":false,"level":"0","parent":"null","isLeaf":false,"expanded":false,"loaded":true,"Resolution":"1920X1080"}]
+IOC and DI Using Unity Framework
+
+http://www.developer.com/net/dependency-injection-best-practices-in-an-n-tier-modular-application.html
+http://www.devcurry.com/2013/01/aspnet-mvc-getting-started-with-unity.html
+http://www.pr0g33k.com/blog/2003/Getting-Started-MVC-4-Entity-Framework-5-Code-First-and-Unity
+http://www.c-sharpcorner.com/UploadFile/b19d5a/basic-generic-repository-pattern-and-unity-of-work-framework/
+http://www.c-sharpcorner.com/UploadFile/akkiraju/dependency-injection-techniques-explained-using-structurem/
+http://www.dotnet-tricks.com/Tutorial/dependencyinjection/632V140413-Dependency-Injection-in-ASP.NET-MVC-4-using-Unity-IoC-Container.html
+
+
+Site provider
+http://maartenba.github.io/MvcSiteMapProvider/getting-started.html
+http://edspencer.me.uk/2011/09/20/mvc-sitemap-provider-tutorial-2-breadcrumbs/
+
+Fluent Validation
+http://www.beabigrockstar.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/
+http://www.deliveron.com/blog/post/A-Quick-Introduction-to-Fluentvalidation-in-aspnet-mvc.aspx
