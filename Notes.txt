@@ -1,3 +1,9 @@
+		Response.Cookies.Add(new HttpCookie("UserName", profile.DisplayName));
+            Response.Cookies.Add(new HttpCookie("UserRole", profile.Role));
+            Response.Cookies.Add(new HttpCookie("UserEmail", profile.UserPrincipalName));
+            Response.Cookies.Add(new HttpCookie("UserNumber", profile.Mobile.ToString()));
+            return Redirect("/Index.html");
+
 http://amasad.me/2015/10/31/javascript-async-functions-for-easier-concurrent-programming/
 https://ponyfoo.com/articles/tagged/es6-in-depth
 https://ponyfoo.com/articles/serviceworker-revolution
