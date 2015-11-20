@@ -1,3 +1,13 @@
+1. progress bar 12
+2. video 24
+3. expand /coll 24
+4. drag & drop 16
+5. true / false 4
+6. fill in the blanks 16
+7. multi choice quiz 16
+8. image gallery 16
+
+
 		Response.Cookies.Add(new HttpCookie("UserName", profile.DisplayName));
             Response.Cookies.Add(new HttpCookie("UserRole", profile.Role));
             Response.Cookies.Add(new HttpCookie("UserEmail", profile.UserPrincipalName));
