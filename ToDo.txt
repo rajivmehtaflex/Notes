@@ -1,6 +1,6 @@
 To Do....
 
-CORS-Exp
+CORS-Exp -- Need more clearification
 Upload-Exp
 Socket.io with Express
 Core-Node
