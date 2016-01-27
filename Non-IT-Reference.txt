@@ -26,7 +26,7 @@ http://www.primewire.ag/
 http://www.zmovie.co/
 
 //======================================Reference======================================
-Custome animation[https://css-tricks.com/animations-the-angular-way/]
+Custome animation[https://css-tricks.com/animations-the-angular-way/,http://codepen.io/ThomasBurleson/pen/BNBBYX]
 Changes in angular 1.3
 Advance Directives
 Gulp file
