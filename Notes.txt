@@ -78,7 +78,12 @@ Express JS
 ES6(TypeScript/Babel)
 Web assambly(asm.js) - Coming soon
 simd.js - Comming Soon
-http 2.0 - Comming Soon
+http 2.0 -
+Reference site
+	http://isthewebhttp2yet.com/
+	https://http2.akamai.com/
+	https://http2.golang.org/
+
 ==============================MVC References================================================================
 For SQL Tools
 http://www.devart.com/dbforge/sql/sqlcomplete/
