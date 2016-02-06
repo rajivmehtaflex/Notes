@@ -1,7 +1,12 @@
+http://angularjs.blogspot.de/2016/02/angular-150-ennoblement-facilitation.html
+http://timothymartin.azurewebsites.net/angularjs-and-minification/
+http://blog.jhades.org/what-every-angular-project-likely-needs-and-a-gulp-build-to-provide-it/
+http://paislee.io/a-healthy-gulp-setup-for-angularjs-projects/
+http://geekswithblogs.net/shaunxu/archive/2015/02/17/10-awesome-gulp-plugins-working-with-angularjs-and-bower.aspx
+
+
 https://developers.google.com/api-client-library/javascript/samples/samples
 http://amasad.me/2015/10/31/javascript-async-functions-for-easier-concurrent-programming/
-https://ponyfoo.com/articles/tagged/es6-in-depth
-https://ponyfoo.com/articles/serviceworker-revolution
 https://ponyfoo.com/articles/things-you-can-do-in-plain-javascript
 http://www.aegis-india.com/contact-us/
 https://in.linkedin.com/in/srikanthpvprojectmanagement
