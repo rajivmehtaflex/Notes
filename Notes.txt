@@ -1,3 +1,20 @@
+Important videos from Advance Directives
+
+02_07-Isolated Scopes  Function Parameters.mp4
+02_08-Isolated Scopes  Overriding Function Parameters.mp4
+03_05-Demo Recreating ngClick.mp4
+03_06-BusinessSpecific Decorators.mp4
+03_07-Manually Creating Watches.mp4
+03_08-Demo State Display  Naive Implementation.mp4
+03_09-Demo State Display Directive.mp4
+04_04-Demo Questionnaire Directive.mp4
+04_06-Reusing HTML With Transclusion  Solution.mp4
+05_05-Demo BusinessSpecific ngRepeat.mp4
+05_06-The Compile Function.mp4
+06_04-Requiring a Controller From Another Directive.mp4
+06_05-Requiring Multiple Controllers.mp4
+================================================================
+
 http://angularjs.blogspot.de/2016/02/angular-150-ennoblement-facilitation.html
 http://timothymartin.azurewebsites.net/angularjs-and-minification/
 http://blog.jhades.org/what-every-angular-project-likely-needs-and-a-gulp-build-to-provide-it/
