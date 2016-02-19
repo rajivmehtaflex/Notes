@@ -1,0 +1,13 @@
+Task 4170:Setup structure for the boards:R -20
+Task 4157:Name shown next to profile picture - edit functionality will be added later (in a separate requirement):R -4
+Task 4159:Left hand menu minimized:R -10
+Task 4160:Group members shown in ribbon:R -12
+Task 4041:Minimize left hand menu:R -6
+Task 4165:Add member icon - functionality will be added later:RootElement:R -4
+Task 4158:Groups shown under the heading GROUPS:R -4
+Task 4156:Profile picture in bottom left corner:R -2
+
+Task 4173:Expandable field in height (auto):U
+Task 4040:Sign up with name, e-mail and password:U
+Task 4152:Sign up with Facebook:U
+Task 4155:Import Facbook profile picture:U
