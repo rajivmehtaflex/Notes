@@ -4,3 +4,4 @@ https://css-tricks.com/the-checkbox-hack/
 http://codepen.io/CreativeJuiz/pen/BiHzp
 http://codepen.io/jamesbarnett/pen/yILjkv/
 https://dzone.com/articles/how-style-checkbox-css
+http://jsfiddle.net/rajiv_mehta_flex/2hz04a3j/1/
