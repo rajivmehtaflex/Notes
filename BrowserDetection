@@ -1,0 +1,31 @@
+(function() {
+'use strict';
+
+    angular
+        .module('myapp.bd',[])
+        .factory('checkBD', checkBD);
+
+    function checkBD() {
+        var service = {
+            checkBrowser:checkBrowser,
+            isOpera:false,
+            isFirefox:false,
+            isSafari:false,
+            isIE:false,
+            isEdge:false,
+            isChrome:false
+        };
+        
+        return service;
+
+        function checkBrowser() {
+            this.isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+            this.isFirefox = typeof InstallTrigger !== 'undefined';
+            this.isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+            this.isIE = false || !!document.documentMode;
+            this.isEdge = !this.isIE && !!window.StyleMedia;
+            this.isChrome = !!window.chrome && !!window.chrome.webstore;
+            this.isBlink = (this.isChrome || this.isOpera) && !!window.CSS;
+        }
+    }
+})();
