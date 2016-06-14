@@ -1,3 +1,16 @@
 https://www.coursera.org/course/compfinance
 https://www.amazon.com/dp/1491912766/ref=rdr_ext_tmb
 https://github.com/fchollet/keras/wiki/Keras,-now-running-on-TensorFlow
+
+Some more Information
+
+Nutch ( Crawling Platform ) + Globbins ( LinkedIn Data Injestion platform ) + WS02 Machine Learning + Data Analytics platform + UI on AngularJS is my first take on Competitive intelligence platform.
+Looking at how different pieces will fall together. Will chat with Sammer Pradhan and then present u
+https://www.libhunt.com/?utm_source=carbon&utm_medium=banner&utm_campaign=carbon-inhouse
+http://gobblin.readthedocs.io/en/latest/Gobblin-Architecture/
+Data Injestion
+http://wso2.com/products/data-analytics-server/
+http://wso2.com/products/machine-learner/
+https://www.google.co.in/search?q=machine+learning+ui&oq=machine+learning+ui&aqs=chrome..69i57j0l5.13386j0j7&sourceid=chrome&ie=UTF-8
+Check the UI at the end of the page
+
