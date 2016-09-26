@@ -1,1 +1,5 @@
 some stuff will be here
+`pkg-config --cflags opencv` --> Build Options-> Compiler Settings -->Other Options 
+`pkg-config --libs opencv` --> Build Options-> Linker Settings -->Other linker Options 
+
+
