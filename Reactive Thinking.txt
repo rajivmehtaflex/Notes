@@ -1,0 +1,31 @@
+What Is Reactive Programming?
+Reactive programming is a programming paradigm that encompasses many
+concepts and techniques.Mouse clicks, network requests,
+arrays of strings—all these can be expressed as streams to which we can
+“react” as they publish new values, using the same interfaces regardless of
+their source.
+
+Reactive is based on two pattern
+
+Observer ->Instead of Event it's fire on change of data
+Iterator ->Return multiple result
+
+Reactive=Observer+Iterator
+
+While the Observer and the Iterator patterns are powerful in their own right,
+the combination of both is even better. We call this the Rx pattern, named
+after the Reactive Extensions libraries.2 We’ll be using this pattern for the
+rest of the book.
+
+The Observable sequence, or simply Observable is central to the Rx pattern.
+An Observable emits its values in order—like an iterator—but instead of its
+consumers requesting the next value, the Observable “pushes” values to
+consumers as they become available. It has a similar role to the Producer’s
+in the Observer pattern: emitting values and pushing them to its listeners.
+
+Put more simply, an Observable is a sequence whose items become available
+over time. The consumers of Observables, Observers, are the equivalent of
+listeners in the Observer pattern. When an Observer is subscribed to an
+Observable, it will receive the values in the sequence as they become available,
+without having to request them.
+
