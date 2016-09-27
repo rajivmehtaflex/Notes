@@ -1,0 +1,18 @@
+using package.json as build tool
+using webpack
+
+Webpack in it's simplest form is a module bundler. 
+This means that webpack takes modules with dependencies and generates static assets representing those modules.
+
+GOALS OF WEBPACK
+
+As stated from the main webpack site, the main goals of creating another module bundler are the abilities to:
+
+Split the dependency tree into chunks loaded on demand
+Keep initial loading time low
+Every static asset should be able to be a module
+
+
+Ability to integrate 3rd-party libraries as modules
+Ability to customize nearly every part of the module bundler
+Suited for big projects
