@@ -1,0 +1,49 @@
+=======Self-Study======
+
+#sls create --template aws-nodejs --path my-service -- Create AWS base Project
+
+->Eventual/Strong Consistency
+->Predictable performance
+
+-Table,Item(Row in rdbms),attributes(column in rdbms)
+-primary key
+-primary key + one more primary key(shortkey) -- Objective of short key is to add confirm uniqueness of more then two key
+
+In Search item perspectives
+Hash-short - both can't be null
+Hash-Index - Hash must not be null,Index can be null 
+
+Practical 
+
+Dynamo DB
+	create a table with combine key operations and try to insert data then look what happens
+	how to put object
+	how to search non-index attribute in table
+sls
+	How to Implement ROLE/CORS --Later
+	How to Implement with WebSockets -- Done
+	How to Implement with bable -- Done
+
+Basic Query for GraphQL
+
+mutation gSample{
+	 createBook(input:{title:"gd2"}){
+    id,
+    title
+  }
+}
+
+query getbooks{
+  listBooks{
+    items{
+      title
+    }
+  }
+}
+
+subscription gsub{
+  onCreateBook{
+    title
+  }
+}
+
